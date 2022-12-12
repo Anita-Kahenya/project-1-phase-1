@@ -1,5 +1,5 @@
 /**
- * Weather Application
+ * Weather Application.
  */
 
 // API_KEY for maps api
@@ -33,7 +33,7 @@ const searchCity = () => {
 
 /**
  * Show the weather data in HTML
- */
+ */ 
 showWeatherData = (weatherData) => {
   document.getElementById("city-name").innerText = weatherData.name;
   document.getElementById("weather-type").innerText = weatherData.weather[0].main;
