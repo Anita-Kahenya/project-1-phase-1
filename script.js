@@ -1,5 +1,5 @@
 /**
- * Weather Application.
+ * Weather Application..
  */
 
 // API_KEY for maps api

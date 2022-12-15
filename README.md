@@ -1,4 +1,4 @@
-Weather Application. 
+Weather Application.
 
 Based on gathering information on lacation's weather.
 
