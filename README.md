@@ -8,6 +8,6 @@ Data is retrieved through URL = "https://api.openweathermap.org/data/2.5/weather
 
 Demo link for the project is https://mugambijavan.github.io/project-1-phase-1/
 
-License Copyright © 2022 Designed & Developed by MUGAMBIJAVAN
+License Copyright © 2022 Designed & Developed by MUGAMBI JAVAN.
 
 
