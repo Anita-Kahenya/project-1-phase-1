@@ -1,6 +1,11 @@
 Weather Application.
 
-Based on gathering information on lacation's weather.
+The project is basically all about gathering information on lacation's weather.
+
+Setting up instructions
+        :git clone git@github.com:mugambijavan/project-1-phase-1.git on your terminal.
+        :open the project file on your code editor ie VS code.
+        :Launch the project.
 
 API key for the maps is :: API_KEY = "a8e71c9932b20c4ceb0aed183e6a83bb"
 
