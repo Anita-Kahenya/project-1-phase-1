@@ -5,6 +5,7 @@
 // API_KEY for maps api
 let API_KEY = "a8e71c9932b20c4ceb0aed183e6a83bb";
 
+
 /**
  * Retrieve weather data from openweathermap.
  */
@@ -16,6 +17,7 @@ const getWeatherData = (city) => {
     return response.json();
   })
 }
+
 
 /**
  * Retrieve city input and get the weather data
